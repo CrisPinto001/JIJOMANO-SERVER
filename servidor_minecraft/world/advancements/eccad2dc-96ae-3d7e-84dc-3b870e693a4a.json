@@ -6672,6 +6672,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-14 06:38:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-07-14 06:24:32 +0000"
@@ -6693,6 +6699,12 @@
   "farmersdelight:recipes/decorations/acacia_cabinet": {
     "criteria": {
       "has_acacia_trapdoor": "2025-07-14 06:24:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-14 06:38:21 +0000"
     },
     "done": true
   },
