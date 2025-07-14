@@ -701,6 +701,7 @@
       "minecraft:pillager": "2025-07-09 22:09:29 +0000",
       "minecraft:skeleton": "2025-07-08 23:53:22 +0000",
       "minecraft:ravager": "2025-07-09 23:48:10 +0000",
+      "minecraft:ghast": "2025-07-14 07:50:40 +0000",
       "minecraft:vindicator": "2025-07-09 23:45:56 +0000",
       "minecraft:magma_cube": "2025-07-09 02:14:43 +0000",
       "minecraft:spider": "2025-07-09 19:22:03 +0000",
@@ -6756,6 +6757,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-14 08:01:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
@@ -6855,6 +6862,12 @@
   "supplementaries:recipes/end_stone_lamp": {
     "criteria": {
       "has_shroomlight": "2025-07-14 06:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-14 08:01:23 +0000"
     },
     "done": true
   },
@@ -7077,6 +7090,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-14 07:39:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-14 08:01:23 +0000"
     },
     "done": true
   },
