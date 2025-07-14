@@ -526,3 +526,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Jul2025 07:03:16.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zCris117 moved wrongly!
 [14Jul2025 07:05:46.171] [Worker-Main-22/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41415, l='ServerLevel[world]', x=-636.00, y=31.00, z=589.00] as it would cause deadlock
 [14Jul2025 07:07:03.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [A Terrible Fortress]
+[14Jul2025 07:08:40.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [Into Fire]
+[14Jul2025 07:09:02.477] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/42801, l='ServerLevel[world]', x=-220.50, y=55.00, z=6975.50]
+[14Jul2025 07:12:20.809] [Worker-Main-22/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/43820, l='ServerLevel[world]', x=-314.00, y=31.00, z=713.00] as it would cause deadlock
+[14Jul2025 07:12:26.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 was slain by Wither Skeleton
+[14Jul2025 07:12:26.797] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for firefrost52 with unique ID travelersbackpack.standard_14.07.2025-07.12.26.dat
+[14Jul2025 07:14:22.500] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[14Jul2025 07:15:11.821] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 52.06 μs. 73/117 recipes are parallelized.
+[14Jul2025 07:17:19.266] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/46496, l='ServerLevel[world]', x=-706.00, y=31.00, z=664.00] as it would cause deadlock
+[14Jul2025 07:17:21.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [Crafting a New Look]
