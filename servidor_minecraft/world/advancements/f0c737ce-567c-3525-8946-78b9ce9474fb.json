@@ -5901,7 +5901,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2025-07-11 05:06:34 +0000"
+      "sweet_berries": "2025-07-11 05:06:34 +0000",
+      "nether_wart": "2025-07-14 23:47:41 +0000"
     },
     "done": false
   },
@@ -6878,6 +6879,12 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-07-14 23:47:41 +0000"
     },
     "done": true
   },

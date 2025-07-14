@@ -625,3 +625,5 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
 	... 35 more
 [14Jul2025 23:24:19.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [What a Deal!]
+[14Jul2025 23:47:41.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [A Seedy Place]
+[14Jul2025 23:50:07.416] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 170.2 μs. 272/272 recipes are parallelized.
