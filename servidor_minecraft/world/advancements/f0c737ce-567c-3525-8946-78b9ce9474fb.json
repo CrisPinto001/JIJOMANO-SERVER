@@ -6478,6 +6478,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2025-07-14 07:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-07-14 07:14:56 +0000"

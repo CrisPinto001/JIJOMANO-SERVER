@@ -535,3 +535,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Jul2025 07:15:11.821] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 52.06 μs. 73/117 recipes are parallelized.
 [14Jul2025 07:17:19.266] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/46496, l='ServerLevel[world]', x=-706.00, y=31.00, z=664.00] as it would cause deadlock
 [14Jul2025 07:17:21.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [Crafting a New Look]
+[14Jul2025 07:19:05.801] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/47477, l='ServerLevel[world]', x=-738.00, y=31.00, z=598.00] as it would cause deadlock
+[14Jul2025 07:23:04.207] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
