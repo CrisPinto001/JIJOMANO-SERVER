@@ -6713,9 +6713,75 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_side_table": {
+    "criteria": {
+      "has_crimson_side_table": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-07-14 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_shelf": {
+    "criteria": {
+      "has_crimson_shelf": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_couch": {
+    "criteria": {
+      "has_crimson_couch": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_pillar_trim": {
+    "criteria": {
+      "has_crimson_pillar_trim": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_table": {
+    "criteria": {
+      "has_crimson_table": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_desk": {
+    "criteria": {
+      "has_crimson_desk": "2025-07-14 23:30:40 +0000"
     },
     "done": true
   },
@@ -6725,15 +6791,105 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_item": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-07-14 22:52:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_chair": {
+    "criteria": {
+      "has_crimson_chair": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_corner_trim": {
+    "criteria": {
+      "has_crimson_corner_trim": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_cupboard": {
+    "criteria": {
+      "has_crimson_cupboard": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_crimson": {
+    "criteria": {
+      "has_the_recipe": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_fancy_bed": {
+    "criteria": {
+      "has_crimson_fancy_bed": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_counter": {
+    "criteria": {
+      "has_crimson_counter": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_drawer": {
+    "criteria": {
+      "has_crimson_drawer": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_bench": {
+    "criteria": {
+      "has_crimson_bench": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-07-14 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_nightstand": {
+    "criteria": {
+      "has_crimson_nightstand": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_dining_bench": {
+    "criteria": {
+      "has_crimson_dining_bench": "2025-07-14 23:30:40 +0000"
     },
     "done": true
   },
