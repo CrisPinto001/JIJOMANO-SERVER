@@ -516,3 +516,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14Jul2025 22:30:57.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [Who is Cutting Onions?]
 [14Jul2025 22:31:13.436] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
 [14Jul2025 22:35:00.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has completed the challenge [Hot Tourist Destinations]
+[14Jul2025 22:36:24.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: firefrost52 lost connection: Disconnected
+[14Jul2025 22:36:24.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 left the game
+[14Jul2025 22:37:15.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: firefrost52[/100.108.234.94:2286] logged in with entity id 19341 at (-558.9832117696504, 20.0, 501.86007504921906)
+[14Jul2025 22:37:15.922] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player firefrost52
+[14Jul2025 22:37:15.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 joined the game
+[14Jul2025 22:37:15.943] [Server thread/INFO] [Jade/]: Syncing config to firefrost52 (f0c737ce-567c-3525-8946-78b9ce9474fb)
+[14Jul2025 22:37:16.705] [Netty Epoll Server IO #2/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] firefrost52: protocol version: 2.0

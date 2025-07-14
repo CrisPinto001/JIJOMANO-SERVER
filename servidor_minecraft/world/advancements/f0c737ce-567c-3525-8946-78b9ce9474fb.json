@@ -6623,21 +6623,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-07-14 22:30:57 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/place_cooking_pot": {
     "criteria": {
       "cooking_pot": "2025-07-14 22:00:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-07-14 22:26:05 +0000"
     },
     "done": true
   },
@@ -6652,18 +6640,6 @@
       "has_red_nether_bricks": "2025-07-14 22:20:56 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-14 22:28:45 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:mineshafts": {
-    "criteria": {
-      "in_mineshaft_crimson": "2025-07-14 22:31:34 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
@@ -6683,9 +6659,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/respawn_anchor": {
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
-      "has_obsidian": "2025-07-14 22:30:57 +0000"
+      "has_red_nether_bricks": "2025-07-14 22:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-14 22:26:05 +0000"
     },
     "done": true
   },
@@ -6701,17 +6683,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-14 22:28:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2025-07-14 22:28:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_red_nether_bricks": "2025-07-14 22:20:56 +0000"
+      "crying_obsidian": "2025-07-14 22:30:57 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-14 22:30:57 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_crimson": "2025-07-14 22:31:34 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
