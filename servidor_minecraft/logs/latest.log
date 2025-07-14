@@ -511,3 +511,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14Jul2025 21:54:27.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: firefrost52 moved wrongly!
 [14Jul2025 21:57:09.471] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.615 ms. 2481/2573 recipes are parallelized.
 [14Jul2025 22:00:15.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has reached the goal [Dinner's Served!]
+[14Jul2025 22:12:43.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrisPinto01 lost connection: Disconnected
+[14Jul2025 22:12:43.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrisPinto01 left the game
