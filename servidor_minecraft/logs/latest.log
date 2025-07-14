@@ -507,3 +507,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Jul2025 05:47:49.242] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.441 ms. 2481/2573 recipes are parallelized.
 [14Jul2025 05:52:08.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [The Cutest Predator]
 [14Jul2025 06:03:41.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [Hot Stuff]
+[14Jul2025 06:07:40.693] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CrisPinto01[/100.86.150.86:54665] logged in with entity id 15207 at (-207.7848279059043, 77.0, 6938.589942114273)
+[14Jul2025 06:07:40.701] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player CrisPinto01
+[14Jul2025 06:07:40.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrisPinto01 joined the game
+[14Jul2025 06:07:40.711] [Server thread/INFO] [Jade/]: Syncing config to CrisPinto01 (0942b3a3-87d7-3c2c-821e-7464f689732b)
+[14Jul2025 06:07:41.846] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] CrisPinto01: protocol version: 2.0
+[14Jul2025 06:08:18.168] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:catfish
+[14Jul2025 06:08:41.711] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:giant_salamander
+[14Jul2025 06:08:41.712] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:catfish
+[14Jul2025 06:08:41.712] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:catfish
+[14Jul2025 06:09:14.769] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:boar
+[14Jul2025 06:09:26.020] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:boar
+[14Jul2025 06:10:04.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:catfish
