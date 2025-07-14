@@ -537,3 +537,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Jul2025 07:17:21.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [Crafting a New Look]
 [14Jul2025 07:19:05.801] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/47477, l='ServerLevel[world]', x=-738.00, y=31.00, z=598.00] as it would cause deadlock
 [14Jul2025 07:23:04.207] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jul2025 07:30:07.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [Hidden in the Depths]
+[14Jul2025 07:32:30.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [Those Were the Days]
+[14Jul2025 07:33:00.507] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/57326, l='ServerLevel[world]', x=-238.00, y=31.00, z=831.00] as it would cause deadlock
+[14Jul2025 07:33:00.507] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/57328, l='ServerLevel[world]', x=-237.00, y=31.00, z=819.00] as it would cause deadlock
+[14Jul2025 07:34:56.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [War Pigs]

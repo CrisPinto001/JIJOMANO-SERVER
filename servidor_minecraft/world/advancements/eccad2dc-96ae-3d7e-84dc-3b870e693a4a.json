@@ -704,11 +704,13 @@
       "minecraft:vindicator": "2025-07-09 23:45:56 +0000",
       "minecraft:magma_cube": "2025-07-09 02:14:43 +0000",
       "minecraft:spider": "2025-07-09 19:22:03 +0000",
+      "minecraft:piglin_brute": "2025-07-14 07:29:27 +0000",
       "minecraft:creeper": "2025-07-09 20:25:25 +0000",
       "minecraft:phantom": "2025-07-09 21:07:57 +0000",
       "minecraft:zombified_piglin": "2025-07-09 02:24:40 +0000",
       "minecraft:wither_skeleton": "2025-07-09 02:25:42 +0000",
       "minecraft:cave_spider": "2025-07-14 03:09:42 +0000",
+      "minecraft:piglin": "2025-07-14 07:29:16 +0000",
       "minecraft:silverfish": "2025-07-14 04:12:39 +0000",
       "minecraft:zombie": "2025-07-08 23:59:52 +0000",
       "minecraft:drowned": "2025-07-09 01:50:35 +0000",
@@ -3947,6 +3949,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-14 06:54:22 +0000",
       "minecraft:nether_wastes": "2025-07-14 06:52:48 +0000",
+      "minecraft:soul_sand_valley": "2025-07-14 07:32:21 +0000",
       "minecraft:basalt_deltas": "2025-07-09 02:09:19 +0000"
     },
     "done": false
@@ -6717,6 +6720,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-14 07:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-14 07:30:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/crimson_shelf": {
     "criteria": {
       "has_crimson_shelf": "2025-07-14 07:17:21 +0000"
@@ -6729,9 +6744,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 07:26:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/crimson_couch": {
     "criteria": {
       "has_crimson_couch": "2025-07-14 07:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 07:26:53 +0000"
     },
     "done": true
   },
@@ -6759,6 +6786,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-14 07:30:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-07-14 07:17:21 +0000"
@@ -6771,6 +6804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 07:26:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/end_stone_lamp": {
     "criteria": {
       "has_shroomlight": "2025-07-14 06:54:25 +0000"
@@ -6780,6 +6819,12 @@
   "supplementaries:recipes/decorations/sign_post_crimson": {
     "criteria": {
       "has_item": "2025-07-14 07:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-07-14 07:30:07 +0000"
     },
     "done": true
   },
@@ -6813,6 +6858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 07:26:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-14 07:07:00 +0000"
@@ -6828,6 +6879,12 @@
   "handcrafted:recipes/misc/crimson_chair": {
     "criteria": {
       "has_crimson_chair": "2025-07-14 07:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 07:26:53 +0000"
     },
     "done": true
   },
@@ -6861,11 +6918,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 07:26:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_crimson_trapdoor": "2025-07-14 07:30:02 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/nether_brick_smoker": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 07:26:53 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:outposts": {
     "criteria": {
       "in_outpost_nether_brick": "2025-07-14 06:55:16 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-07-14 07:34:56 +0000"
+    },
+    "done": true
   },
   "handcrafted:recipes/misc/crimson_fancy_bed": {
     "criteria": {
@@ -6903,6 +6984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 07:26:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-07-14 06:38:21 +0000"
@@ -6921,9 +7008,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 07:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-14 07:32:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-07-14 05:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-14 07:26:53 +0000"
     },
     "done": true
   },
