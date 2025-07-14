@@ -6512,3 +6512,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Jul2025 05:55:49.289] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@1188a57c, b=51, e=77}
 [14Jul2025 05:55:54.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jul2025 05:55:54.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 06:00:54.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 06:00:54.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 06:01:44.987] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 65
+[14Jul2025 06:01:44.987] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@6f60534, b=58, e=66}, []=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@6f60534, b=31, e=57}}
+[14Jul2025 06:01:44.987] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@6f60534, b=58, e=66}
+[14Jul2025 06:02:43.273] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 6
+[14Jul2025 06:02:43.273] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.level.block.entity.ChestBlockEntity@48cba418=InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@48cba418, c=net.minecraft.world.inventory.ChestMenu@3db5a986, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3db5a986, b=54, e=62}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3db5a986, b=27, e=53}}
+[14Jul2025 06:02:43.273] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@48cba418, c=net.minecraft.world.inventory.ChestMenu@3db5a986, b=0, e=26}
+[14Jul2025 06:03:41.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [Hot Stuff]
+[14Jul2025 06:03:53.216] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 24
+[14Jul2025 06:03:53.216] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@27f2c094, b=58, e=66}, []=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@27f2c094, b=31, e=57}}
+[14Jul2025 06:03:53.216] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot null
+[14Jul2025 06:05:54.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 06:05:54.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
