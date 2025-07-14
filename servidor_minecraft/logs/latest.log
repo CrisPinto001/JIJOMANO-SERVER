@@ -519,3 +519,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Jul2025 06:09:14.769] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:boar
 [14Jul2025 06:09:26.020] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:boar
 [14Jul2025 06:10:04.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:catfish
+[14Jul2025 06:29:23.039] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 225.8 μs. 272/272 recipes are parallelized.
