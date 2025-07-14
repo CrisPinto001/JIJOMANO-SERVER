@@ -6672,6 +6672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-14 07:39:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-07-14 06:24:32 +0000"
@@ -6687,6 +6693,12 @@
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-07-14 07:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-14 07:39:39 +0000"
     },
     "done": true
   },
@@ -6714,6 +6726,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-07-14 06:38:21 +0000"
@@ -6729,6 +6753,12 @@
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-07-14 07:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
     },
     "done": true
   },
@@ -6756,6 +6786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-14 07:39:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-07-14 07:26:53 +0000"
@@ -6765,6 +6801,12 @@
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-14 07:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
     },
     "done": true
   },
@@ -6816,6 +6858,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-14 07:39:39 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_crimson": {
     "criteria": {
       "has_item": "2025-07-14 07:17:21 +0000"
@@ -6840,9 +6888,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_machete_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-14 07:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-14 07:39:39 +0000"
     },
     "done": true
   },
@@ -6858,9 +6918,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-07-14 07:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
     },
     "done": true
   },
@@ -6876,15 +6948,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/crimson_chair": {
     "criteria": {
       "has_crimson_chair": "2025-07-14 07:17:21 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-07-14 07:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
     },
     "done": true
   },
@@ -6900,9 +6996,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/crimson_cupboard": {
     "criteria": {
       "has_crimson_cupboard": "2025-07-14 07:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-07-14 07:42:09 +0000"
     },
     "done": true
   },
@@ -6927,6 +7035,12 @@
   "farmersdelight:recipes/decorations/crimson_cabinet": {
     "criteria": {
       "has_crimson_trapdoor": "2025-07-14 07:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
     },
     "done": true
   },
@@ -6960,15 +7074,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-14 07:39:39 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/crimson_drawer": {
     "criteria": {
       "has_crimson_drawer": "2025-07-14 07:17:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-14 07:39:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/acacia_cabinet": {
     "criteria": {
       "has_acacia_trapdoor": "2025-07-14 06:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-14 07:42:09 +0000"
     },
     "done": true
   },
@@ -7002,6 +7134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-14 07:39:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-07-14 07:20:42 +0000"
@@ -7026,15 +7164,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-07-14 07:26:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-14 07:07:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-14 07:44:00 +0000"
     },
     "done": true
   },
@@ -7047,6 +7203,12 @@
   "handcrafted:recipes/misc/crimson_dining_bench": {
     "criteria": {
       "has_crimson_dining_bench": "2025-07-14 07:17:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-14 07:39:39 +0000"
     },
     "done": true
   },

@@ -542,3 +542,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Jul2025 07:33:00.507] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/57326, l='ServerLevel[world]', x=-238.00, y=31.00, z=831.00] as it would cause deadlock
 [14Jul2025 07:33:00.507] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/57328, l='ServerLevel[world]', x=-237.00, y=31.00, z=819.00] as it would cause deadlock
 [14Jul2025 07:34:56.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [War Pigs]
+[14Jul2025 07:43:53.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrisPinto01> zeta zeta zeta
+[14Jul2025 07:46:28.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-325, y=55, z=626} BlockPos{x=-326, y=56, z=626}
+[14Jul2025 07:46:28.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-325, y=55, z=626} BlockPos{x=-326, y=56, z=626}
+[14Jul2025 07:46:28.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-325, y=55, z=626} BlockPos{x=-326, y=56, z=626}
+[14Jul2025 07:46:28.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-325, y=55, z=626} BlockPos{x=-326, y=56, z=626}
+[14Jul2025 07:46:28.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-325, y=55, z=626} BlockPos{x=-326, y=56, z=626}
+[14Jul2025 07:46:28.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-329, y=58, z=628} BlockPos{x=-328, y=55, z=627}
+[14Jul2025 07:46:28.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-329, y=58, z=628} BlockPos{x=-328, y=55, z=627}
