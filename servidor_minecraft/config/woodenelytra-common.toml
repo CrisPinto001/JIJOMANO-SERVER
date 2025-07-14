@@ -1,0 +1,17 @@
+
+["Configs for Wooden Elytra"]
+	#Default: 230, it's the minimun height in which you lose durability every 3rd tick (And burn, if enabled)
+	"High Intensity Height" = 230
+	#Default: 150, it's the minimun height in which you lose durability every 5th tick
+	"Medium Intensity Height" = 150
+	#Default: 80, it's the minimun height in which you lose durability every 7th tick
+	"Low Intensity Height" = 80
+	#Default: 80, it's the base durability of the wooden_elytra
+	"Base Durability" = 80
+	#Default: true, it's wether or not you burn at high intensity
+	"Burn at high intensity" = true
+	#Use commas to separate dimensions, this is a list of dimensions in which any height is considered Medium Intensity
+	"Ignore Dimension" = "minecraft:the_wasteland,terracraft:the_cube"
+	#Use commas to separate dimensions, this is a list of dimensions in which any height is considered High Intensity and burn regardless of burn config
+	"Burn Dimension" = "minecraft:the_fireland,terracraft:the_sun"
+

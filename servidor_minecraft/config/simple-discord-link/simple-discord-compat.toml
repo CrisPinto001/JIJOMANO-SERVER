@@ -1,0 +1,68 @@
+#INTERNAL. DO NOT TOUCH
+configVersion = 5
+
+#Disable/Enable basic integrations
+[common]
+	#Should SDLink integrate with Vanish Mod
+	vanish = true
+	#Should SDLink integrate with FTB Essentials
+	ftbessentials = true
+	#Should SDLink integrate with FTB Ranks
+	ftbranks = true
+	#Should SDLink integrate with Luckperms (Group Syncing only)
+	luckperms = true
+	#Should chats from the /ftbteams chat command be relayed to discord
+	ftbteams_chat = false
+
+#Manage Player Revive Mod integration
+[player_revive]
+	#Should integration with Player Revive Mod be enabled
+	enabled = true
+	#Message to be sent to discord, while the player is waiting to be revived
+	reviveWaitingMessage = "%player% is bleeding out and may need your help"
+	#Message to be sent to discord, when the player is revived
+	revivedMessage = "%player% has been revived"
+	#Message to be sent to discord, when the player dies for real
+	playerBledOutMessage = "%player% %message%"
+
+#Manage Maintenance Mode integration
+[maintenance_mode]
+	#Should integration with MaintenanceMode be enabled
+	enabled = true
+	#Change the Bot Online Status during Maintenance Mode. Valid options are ONLINE, IDLE, DO_NOT_DISTURB, OFFLINE
+	maintenanceOnlineStatus = "DO_NOT_DISTURB"
+	#Update channel topic with server MOTD during maintenance mode
+	updateChannelTopic = true
+	#Update the bot status with the server MOTD during maintenance mode
+	updateBotStatus = false
+	#Send a message to discord when maintenance starts
+	sendMaintenanceStart = true
+	#Send a message to discord when maintenance ends
+	sendMaintenanceEnd = true
+	#The message to send to discord when maintenance has started
+	maintenanceStartMessage = "Maintenance has started"
+	#The message to send to discord when maintenance has ended
+	maintenanceEndMessage = "Maintenance has ended"
+
+#LuckPerms group syncing
+[luckperms]
+	#Sync Groups/Ranks to Minecraft from Discord Roles
+	syncToMinecraft = false
+	#Sync Groups/Ranks to Discord roles from Minecraft
+	syncToDiscord = false
+	#List of Ranks and Roles that will be synced. Check the wiki on how to configure this
+	syncs = []
+
+#FTB Ranks Rank syncing
+[ftbranks]
+	#Sync Groups/Ranks to Minecraft from Discord Roles
+	syncToMinecraft = false
+	#Sync Groups/Ranks to Discord roles from Minecraft
+	syncToDiscord = false
+	#List of Ranks and Roles that will be synced. Check the wiki on how to configure this
+	syncs = []
+
+[vanish]
+	#Should Fake Join/Leave message be sent when players vanish/unvanish
+	sendFakeJoinLeaveMessage = true
+

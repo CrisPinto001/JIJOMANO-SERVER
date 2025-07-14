@@ -1,0 +1,16 @@
+{
+  "color": "#000000",
+  "title": null,
+  "url": null,
+  "author": {
+    "name": "%author%",
+    "icon_url": "%avatar%",
+    "url": null
+  },
+  "description": "%message_contents%",
+  "thumbnail": null,
+  "fields": null,
+  "image": null,
+  "timestamp": 0,
+  "footer": null
+}
