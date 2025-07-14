@@ -973,6 +973,7 @@
       "cooked_mutton": "2025-07-09 01:10:13 +0000",
       "sweet_berries": "2025-07-11 06:44:54 +0000",
       "cooked_beef": "2025-07-10 01:23:31 +0000",
+      "baked_potato": "2025-07-14 06:46:40 +0000",
       "apple": "2025-07-09 00:11:36 +0000",
       "cooked_cod": "2025-07-09 00:27:10 +0000",
       "bread": "2025-07-09 00:59:08 +0000",
@@ -3944,6 +3945,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-14 06:54:22 +0000",
+      "minecraft:nether_wastes": "2025-07-14 06:52:48 +0000",
       "minecraft:basalt_deltas": "2025-07-09 02:09:19 +0000"
     },
     "done": false
@@ -6672,9 +6675,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-07-14 06:57:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-07-14 06:38:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-07-14 06:54:25 +0000"
     },
     "done": true
   },
@@ -6695,6 +6710,18 @@
       "lava_bucket": "2025-07-14 06:03:41 +0000"
     },
     "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-07-14 06:54:25 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_nether_brick": "2025-07-14 06:55:16 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/decorations/acacia_cabinet": {
     "criteria": {

@@ -522,3 +522,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Jul2025 06:29:23.039] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 225.8 μs. 272/272 recipes are parallelized.
 [14Jul2025 06:41:47.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 burned to death
 [14Jul2025 06:41:47.055] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for firefrost52 with unique ID travelersbackpack.standard_14.07.2025-06.41.47.dat
+[14Jul2025 06:57:30.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [Nightmare Fuel]
+[14Jul2025 07:03:16.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zCris117 moved wrongly!
+[14Jul2025 07:05:46.171] [Worker-Main-22/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41415, l='ServerLevel[world]', x=-636.00, y=31.00, z=589.00] as it would cause deadlock
+[14Jul2025 07:07:03.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [A Terrible Fortress]
