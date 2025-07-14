@@ -564,3 +564,64 @@ net.minecraft.ReportedException: Loading entity NBT
 Caused by: java.lang.IllegalStateException: Entity has invalid position
 	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
 	... 35 more
+[14Jul2025 23:18:40.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zCris117[/100.99.154.73:57939] logged in with entity id 26143 at (-335.19616849221836, 87.0, 1400.8215738454053)
+[14Jul2025 23:18:40.754] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zCris117
+[14Jul2025 23:18:40.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 joined the game
+[14Jul2025 23:18:40.763] [Server thread/INFO] [Jade/]: Syncing config to zCris117 (eccad2dc-96ae-3d7e-84dc-3b870e693a4a)
+[14Jul2025 23:18:43.171] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] zCris117: protocol version: 2.0
+[14Jul2025 23:20:20.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zCris117> donde estas ?
+[14Jul2025 23:20:31.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <firefrost52> el nether
+[14Jul2025 23:20:42.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zCris117> ya fuiste por tus cosas o q?
+[14Jul2025 23:20:51.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <firefrost52> sm
+[14Jul2025 23:20:59.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <firefrost52> ya voy de regreso
+[14Jul2025 23:21:05.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zCris117> xd
+[14Jul2025 23:21:08.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Jul2025 23:21:08.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lol<--[HERE]
+[14Jul2025 23:21:14.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] lol
+[14Jul2025 23:22:19.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Este destruidor se auto servira en:
+[14Jul2025 23:22:25.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 3
+[14Jul2025 23:22:28.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 2
+[14Jul2025 23:22:30.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 1
+[14Jul2025 23:22:46.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Destuidor servido con éxito.
+[14Jul2025 23:24:03.371] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$246(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zci000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	... 35 more
+[14Jul2025 23:24:19.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [What a Deal!]
