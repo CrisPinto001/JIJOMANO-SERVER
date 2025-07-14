@@ -513,3 +513,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14Jul2025 22:00:15.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has reached the goal [Dinner's Served!]
 [14Jul2025 22:12:43.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CrisPinto01 lost connection: Disconnected
 [14Jul2025 22:12:43.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrisPinto01 left the game
+[14Jul2025 22:30:57.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [Who is Cutting Onions?]
+[14Jul2025 22:31:13.436] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[14Jul2025 22:35:00.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has completed the challenge [Hot Tourist Destinations]
