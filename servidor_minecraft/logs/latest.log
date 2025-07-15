@@ -3,3 +3,4 @@
 [15Jul2025 00:26:56.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=78, z=1145} BlockPos{x=2, y=77, z=1145}
 [15Jul2025 00:26:56.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=78, z=1145} BlockPos{x=2, y=77, z=1145}
 [15Jul2025 00:31:42.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [What a Deal!]
+[15Jul2025 00:42:34.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: firefrost52 moved wrongly!
