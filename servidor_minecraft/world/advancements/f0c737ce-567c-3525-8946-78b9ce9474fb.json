@@ -6774,6 +6774,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-14 23:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-07-14 23:30:40 +0000"
@@ -6897,6 +6903,12 @@
   "handcrafted:recipes/misc/crimson_dining_bench": {
     "criteria": {
       "has_crimson_dining_bench": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-07-14 23:59:16 +0000"
     },
     "done": true
   },
