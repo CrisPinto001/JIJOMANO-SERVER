@@ -853,3 +853,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Jul2025 07:10:30.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 1.097796276054396
 [17Jul2025 07:10:30.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 1.097796276054396
 [17Jul2025 07:10:30.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 0.7286715789950904
+[17Jul2025 07:30:59.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [Hot Stuff]

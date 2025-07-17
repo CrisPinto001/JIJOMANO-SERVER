@@ -7198,6 +7198,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-17 07:30:59 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_nightstand": {
     "criteria": {
       "has_spruce_nightstand": "2025-07-17 07:12:22 +0000"
