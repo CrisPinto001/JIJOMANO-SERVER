@@ -6218,3 +6218,405 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Jul2025 06:00:22.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Jul2025 06:00:31.646] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@703e91ef for service interface com.blamejared.clumps.platform.IEventHelper
 [17Jul2025 06:00:31.647] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@7f317f8 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[17Jul2025 06:04:34.896] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 24
+[17Jul2025 06:04:34.900] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@6aa8c9fe=InventoryMapping{i=net.minecraft.world.CompoundContainer@6aa8c9fe, c=net.minecraft.world.inventory.ChestMenu@3875097e, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3875097e, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3875097e, b=81, e=89}}
+[17Jul2025 06:04:34.900] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@6aa8c9fe, c=net.minecraft.world.inventory.ChestMenu@3875097e, b=0, e=53}
+[17Jul2025 06:04:39.241] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 49
+[17Jul2025 06:04:39.241] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@6aa8c9fe=InventoryMapping{i=net.minecraft.world.CompoundContainer@6aa8c9fe, c=net.minecraft.world.inventory.ChestMenu@3875097e, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3875097e, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3875097e, b=81, e=89}}
+[17Jul2025 06:04:39.241] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@6aa8c9fe, c=net.minecraft.world.inventory.ChestMenu@3875097e, b=0, e=53}
+[17Jul2025 06:04:43.043] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 67
+[17Jul2025 06:04:43.043] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@6aa8c9fe=InventoryMapping{i=net.minecraft.world.CompoundContainer@6aa8c9fe, c=net.minecraft.world.inventory.ChestMenu@3875097e, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3875097e, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3875097e, b=81, e=89}}
+[17Jul2025 06:04:43.043] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3875097e, b=54, e=80}
+[17Jul2025 06:04:44.726] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 82
+[17Jul2025 06:04:44.727] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@6aa8c9fe=InventoryMapping{i=net.minecraft.world.CompoundContainer@6aa8c9fe, c=net.minecraft.world.inventory.ChestMenu@3875097e, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3875097e, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3875097e, b=81, e=89}}
+[17Jul2025 06:04:44.727] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@3875097e, b=81, e=89}
+[17Jul2025 06:05:22.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 06:05:22.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 06:09:43.958] [Worker-Main-22/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Jul2025 06:09:43.958] [Worker-Main-22/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Jul2025 06:09:43.959] [Worker-Main-22/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Jul2025 06:09:43.960] [Worker-Main-22/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Jul2025 06:09:43.960] [Worker-Main-22/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Jul2025 06:09:43.961] [Worker-Main-22/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Jul2025 06:09:43.961] [Worker-Main-22/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Jul2025 06:09:43.962] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.963] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.963] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.963] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.963] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.963] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.964] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.964] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.964] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.964] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.964] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.964] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.964] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.964] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.964] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.964] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.964] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:43.964] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jul2025 06:09:49.149] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[17Jul2025 06:09:49.150] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[17Jul2025 06:09:49.150] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[17Jul2025 06:09:49.152] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[17Jul2025 06:09:49.152] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[17Jul2025 06:09:49.460] [Worker-Main-23/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[17Jul2025 06:09:49.703] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of orcz:camp_setup_big
+[17Jul2025 06:09:49.703] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of orcz:fake_tree
+[17Jul2025 06:10:22.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 06:10:22.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 06:10:29.053] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-358, y=-26, z=2319}
+[17Jul2025 06:10:29.054] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-360, y=-26, z=2319}
+[17Jul2025 06:10:31.157] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-476, y=-14, z=2315}
+[17Jul2025 06:14:35.940] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[17Jul2025 06:15:22.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 06:15:22.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 06:15:49.885] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[17Jul2025 06:15:57.065] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=160, y=-45, z=2398}
+[17Jul2025 06:16:23.305] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=308, y=-49, z=2528}
+[17Jul2025 06:16:23.305] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=309, y=-49, z=2528}
+[17Jul2025 06:17:40.642] [Worker-Main-23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=320, y=-54, z=2755}
+[17Jul2025 06:17:40.642] [Worker-Main-23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=321, y=-54, z=2756}
+[17Jul2025 06:20:22.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 06:20:22.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 06:23:00.537] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/11641, l='ServerLevel[world]', x=405.50, y=24.00, z=2575.50]
+[17Jul2025 06:23:21.463] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:23:21.466] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:23:21.467] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:23:21.467] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:23:22.304] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:23:22.304] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:23:22.304] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:23:28.668] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=232, y=-41, z=2988}
+[17Jul2025 06:23:28.668] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=231, y=-41, z=2988}
+[17Jul2025 06:23:34.628] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[17Jul2025 06:23:36.009] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=106, y=-48, z=3037}
+[17Jul2025 06:23:36.010] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=106, y=-48, z=3035}
+[17Jul2025 06:23:57.723] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=198, y=-51, z=3195}
+[17Jul2025 06:23:57.724] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=198, y=-51, z=3197}
+[17Jul2025 06:24:01.698] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[17Jul2025 06:24:22.797] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:22.797] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:22.798] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:24:22.855] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:23.460] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:24.228] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:sunfish
+[17Jul2025 06:24:25.072] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:25.072] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:29.865] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:29.868] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:29.868] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:30.747] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:30.747] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:30.755] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:30.759] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:30.868] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:30.869] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:30.869] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:30.874] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:30.874] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:30.875] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:31.311] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:31.311] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:31.843] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:31.843] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:31.844] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:31.849] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:31.849] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:31.895] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.007] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.252] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.253] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.253] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.295] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.365] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.366] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.366] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.445] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.446] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.446] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.553] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.554] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.555] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.555] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.555] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.556] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.561] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.562] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.565] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.567] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.567] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:32.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.569] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.569] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:32.973] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:33.199] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:33.199] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:34.402] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:34.559] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:football_fish
+[17Jul2025 06:24:34.747] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:34.768] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:34.769] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:36.518] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:36.529] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:36.529] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:36.750] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:36.750] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:36.750] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:38.518] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:38.519] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:38.699] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:39.067] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:39.068] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:39.068] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:40.781] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:40.781] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:40.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:40.816] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:40.816] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:baleen_whale
+[17Jul2025 06:24:43.016] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:43.016] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:43.016] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:43.017] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:43.017] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:43.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:43.019] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:43.020] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:43.020] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:43.020] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:43.021] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:43.021] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:43.022] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:43.776] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:43.777] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:43.978] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:44.026] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:44.026] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:44.074] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:44.126] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:44.127] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:44.127] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:44.309] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:44.310] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:44.310] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:45.179] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:24:45.182] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:45.182] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:24:45.183] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:45.184] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:45.185] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:45.187] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:45.213] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:46.081] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:47.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:47.326] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:47.326] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:47.326] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:sunfish
+[17Jul2025 06:24:47.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:47.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:47.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:47.331] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:shark
+[17Jul2025 06:24:47.363] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:47.766] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:47.766] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:47.766] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:47.766] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:47.767] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:47.767] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:47.767] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:47.770] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:47.771] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:24:47.771] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:24:47.772] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:47.772] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:47.781] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:48.130] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:48.149] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:48.220] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:48.221] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:48.221] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:48.222] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:48.222] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:48.261] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:48.261] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:48.261] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:48.262] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:48.262] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:48.262] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:49.562] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:49.563] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:49.563] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:49.563] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:49.563] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:49.563] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:49.799] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:50.171] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:50.172] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:50.172] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:50.172] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:50.269] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:50.270] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:50.270] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:50.511] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:50.533] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:50.552] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:50.720] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:50.721] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:51.475] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:51.476] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:51.478] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:51.478] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:24:51.514] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:24:51.709] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:51.948] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:51.948] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:51.995] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:51.995] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:52.027] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:52.409] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:52.410] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:52.410] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:52.530] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:52.530] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:52.531] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:52.550] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:54.307] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:54.519] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:54.519] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:54.521] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:54.521] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:54.625] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:54.630] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:54.668] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:54.948] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:54.948] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:55.299] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:55.497] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:55.659] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:24:55.659] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:24:55.659] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:24:55.659] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:24:55.936] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:57.119] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:57.269] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:57.269] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:57.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:24:57.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:57.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:24:57.358] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:57.834] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:57.834] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:59.045] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:59.045] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:59.045] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:59.120] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:59.120] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:59.120] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:59.443] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:59.444] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:59.444] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:59.444] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:59.444] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:59.444] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:24:59.444] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:00.422] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:00.453] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:00.453] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:00.453] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:00.665] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:00.668] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:shark
+[17Jul2025 06:25:00.670] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:00.670] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:00.670] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:00.706] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:00.707] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:00.773] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:00.811] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:00.811] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:01.051] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:01.052] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:01.052] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:01.151] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:01.195] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:01.195] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:01.195] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:01.781] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:01.781] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:01.781] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:02.232] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:02.232] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:02.232] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:02.260] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:02.260] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:02.260] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:02.284] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:02.284] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:02.284] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:03.099] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:03.099] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:03.099] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:03.622] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:03.622] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:03.623] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:03.623] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:03.900] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:sunfish
+[17Jul2025 06:25:03.900] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:03.901] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:04.225] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:shark
+[17Jul2025 06:25:04.450] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:06.023] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:06.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved too quickly! 0.7426844571484708,0.0,10.27635557464373
+[17Jul2025 06:25:06.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved too quickly! 0.7920918974674009,0.0,10.672492067667463
+[17Jul2025 06:25:06.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved too quickly! 0.8428030922784728,0.0,11.068523874261246
+[17Jul2025 06:25:06.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved too quickly! 0.8960059126932265,0.0,11.464230319983017
+[17Jul2025 06:25:06.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved too quickly! 0.9533097722928119,0.0,11.859239862415052
+[17Jul2025 06:25:06.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved too quickly! 1.0166266755457514,0.0,12.252984623368775
+[17Jul2025 06:25:06.028] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:06.028] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:06.028] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:25:06.028] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:06.028] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:06.028] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:06.029] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:06.029] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:25:07.183] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:07.183] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:07.698] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:07.812] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:07.812] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:07.812] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:07.812] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:07.857] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:07.857] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:07.979] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:25:07.980] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:king_crab
+[17Jul2025 06:25:08.167] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:08.883] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:09.823] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:09.823] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:09.823] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:09.940] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:09.940] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:09.940] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:09.940] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:10.356] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:10.356] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:10.356] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:25:10.846] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:baleen_whale
+[17Jul2025 06:25:22.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 06:25:22.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 06:25:31.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 fell from a high place
+[17Jul2025 06:25:31.233] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for firefrost52 with unique ID travelersbackpack.squid_17.07.2025-06.25.31.dat
+[17Jul2025 06:29:29.006] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=44, y=-20, z=2909}
+[17Jul2025 06:29:48.120] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-119, y=24, z=3048}
+[17Jul2025 06:29:48.120] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-119, y=24, z=3049}
+[17Jul2025 06:30:22.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 06:30:22.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 06:32:58.101] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:32:58.101] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:32:58.101] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:32:58.101] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:35:22.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 06:35:22.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
