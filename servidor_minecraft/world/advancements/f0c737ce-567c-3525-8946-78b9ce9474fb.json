@@ -73,6 +73,7 @@
       "minecraft:warm_ocean": "2025-07-09 01:10:45 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-09 02:01:43 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-09 22:39:10 +0000",
+      "minecraft:deep_dark": "2025-07-15 01:21:22 +0000",
       "minecraft:savanna": "2025-07-09 00:45:49 +0000",
       "minecraft:plains": "2025-07-09 02:20:36 +0000"
     },
@@ -758,6 +759,7 @@
       "minecraft:cave_spider": "2025-07-14 03:32:26 +0000",
       "minecraft:piglin": "2025-07-14 01:49:55 +0000",
       "minecraft:enderman": "2025-07-09 21:25:09 +0000",
+      "minecraft:silverfish": "2025-07-15 01:19:57 +0000",
       "minecraft:zombie": "2025-07-08 23:56:01 +0000",
       "minecraft:drowned": "2025-07-09 22:36:12 +0000",
       "minecraft:zombie_villager": "2025-07-10 00:43:16 +0000"
@@ -6715,6 +6717,30 @@
     },
     "done": false
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-14 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-14 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-14 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz_smithing": {
+    "criteria": {
+      "has_quartz": "2025-07-14 23:06:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-07-14 23:30:40 +0000"
@@ -6736,18 +6762,6 @@
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2025-07-14 23:30:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-14 22:52:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-07-15 00:28:32 +0000"
     },
     "done": true
   },
@@ -6781,12 +6795,6 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-07-14 23:57:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-07-14 23:30:40 +0000"
@@ -6799,21 +6807,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/quartz_smithing": {
-    "criteria": {
-      "has_quartz": "2025-07-14 23:06:41 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_crimson": {
     "criteria": {
       "has_item": "2025-07-14 23:30:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-14 22:52:31 +0000"
     },
     "done": true
   },
@@ -6829,27 +6825,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-07-15 00:31:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-07-15 00:26:54 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/crimson_chair": {
     "criteria": {
       "has_crimson_chair": "2025-07-14 23:30:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flute": {
-    "criteria": {
-      "has_bamboo": "2025-07-15 00:31:37 +0000"
     },
     "done": true
   },
@@ -6865,21 +6843,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-07-15 00:26:54 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/sign_post_crimson": {
     "criteria": {
       "has_the_recipe": "2025-07-14 23:30:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candy": {
-    "criteria": {
-      "has_paper": "2025-07-15 00:28:32 +0000"
     },
     "done": true
   },
@@ -6913,15 +6879,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-14 22:52:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_nightstand": {
+    "criteria": {
+      "has_crimson_nightstand": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_dining_bench": {
+    "criteria": {
+      "has_crimson_dining_bench": "2025-07-14 23:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-07-14 23:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-14 23:57:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-07-14 23:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-15 00:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-15 00:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-15 00:28:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-07-15 00:28:32 +0000"
     },
     "done": true
   },
@@ -6937,9 +6951,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "supplementaries:recipes/flute": {
     "criteria": {
-      "nether_wart": "2025-07-14 23:47:41 +0000"
+      "has_bamboo": "2025-07-15 00:31:37 +0000"
     },
     "done": true
   },
@@ -6961,21 +6975,39 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_nightstand": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_crimson_nightstand": "2025-07-14 23:30:40 +0000"
+      "traded": "2025-07-15 00:31:42 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_dining_bench": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_crimson_dining_bench": "2025-07-14 23:30:40 +0000"
+      "avoid_vibration": "2025-07-15 01:24:44 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/horse_feed": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "has_golden_carrot": "2025-07-14 23:59:16 +0000"
+      "has_enchanted_golden_apple": "2025-07-15 01:29:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-07-15 01:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-17 05:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-17 05:57:36 +0000"
     },
     "done": true
   },

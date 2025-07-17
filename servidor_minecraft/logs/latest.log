@@ -1,6 +1,499 @@
-[15Jul2025 00:26:54.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=78, z=1144} BlockPos{x=9, y=76, z=1144}
-[15Jul2025 00:26:54.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=78, z=1144} BlockPos{x=9, y=76, z=1144}
-[15Jul2025 00:26:56.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=78, z=1145} BlockPos{x=2, y=77, z=1145}
-[15Jul2025 00:26:56.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=78, z=1145} BlockPos{x=2, y=77, z=1145}
-[15Jul2025 00:31:42.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [What a Deal!]
-[15Jul2025 00:42:34.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: firefrost52 moved wrongly!
+[17Jul2025 05:54:36.302] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[17Jul2025 05:54:36.308] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[17Jul2025 05:54:41.879] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[17Jul2025 05:54:41.993] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/JIJOMANO-SERVER/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[17Jul2025 05:54:42.613] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/JIJOMANO-SERVER/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[17Jul2025 05:54:42.614] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/JIJOMANO-SERVER/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Jul2025 05:54:42.615] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/JIJOMANO-SERVER/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Jul2025 05:54:42.616] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/JIJOMANO-SERVER/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Jul2025 05:54:43.944] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[17Jul2025 05:54:43.944] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[17Jul2025 05:54:43.945] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 35 dependencies adding them to mods collection
+[17Jul2025 05:54:44.541] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
+[17Jul2025 05:54:44.654] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[17Jul2025 05:54:44.665] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
+[17Jul2025 05:54:44.672] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/JIJOMANO-SERVER/servidor_minecraft/mods/scripts as it did not exist.
+[17Jul2025 05:54:44.680] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[17Jul2025 05:54:48.014] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 3053ms
+[17Jul2025 05:54:48.015] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
+[17Jul2025 05:54:49.492] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[17Jul2025 05:54:49.615] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
+[17Jul2025 05:54:49.919] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[17Jul2025 05:54:50.271] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.24.1+mc1.20.1: 96 options available, 0 override(s) found
+[17Jul2025 05:54:50.272] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[17Jul2025 05:54:50.289] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[17Jul2025 05:54:50.371] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Jul2025 05:54:50.374] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Jul2025 05:54:50.377] [main/WARN] [mixin/]: Reference map '' for mixins.blueprintfix.json could not be read. If this is a development environment you can ignore this message
+[17Jul2025 05:54:50.414] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 183 options available, 0 override(s) found
+[17Jul2025 05:54:50.438] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Jul2025 05:54:50.486] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Jul2025 05:54:50.502] [main/WARN] [mixin/]: Reference map 'mixins.wooden_elytra.refmap.json' for mixins.wooden_elytra.json could not be read. If this is a development environment you can ignore this message
+[17Jul2025 05:54:50.553] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Jul2025 05:54:50.622] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Jul2025 05:54:50.769] [main/INFO] [Puzzles Lib/]: Loading 138 mods:
+	- alexsmobs 1.22.9
+	- amendments 1.20-1.2.19
+	- appleskin 2.5.1+mc1.20.1
+	- architectury 9.2.14
+	- armor_3d 0.8.7
+	- artifacts 9.5.16
+		\-- expandability 9.0.4
+	- bcc 4.0.8
+	- betterbundles 1.20.1-1.1.0
+	- bettercombat 1.8.6+1.20.1
+	- betterdeserttemples 1.20-Forge-3.0.3
+	- betterdungeons 1.20-Forge-4.0.4
+	- betterendcities 1.0.0-1.20.1
+	- betterendisland 1.20-Forge-2.0.6
+	- betterfortresses 1.20-Forge-2.0.6
+	- betterfpsdist 1.20.1-6.0
+	- betterjungletemples 1.20-Forge-2.0.5
+	- bettermineshafts 1.20-Forge-4.0.4
+	- betteroceanmonuments 1.20-Forge-3.0.4
+	- betterstrongholds 1.20-Forge-4.0.3
+	- betterthirdperson 1.9.0
+	- bettervillage 3.3.1
+	- betterwitchhuts 1.20-Forge-3.0.3
+	- blueprint 7.1.3
+	- blueprintfix 1.0.0
+	- bucketlib 1.20.1-2.3.7.1
+	- caelus 3.2.0+1.20.1
+	- carryon 2.1.2.7
+		\-- mixinextras 0.2.0-beta.6
+	- cataclysm 3.07
+	- chat_heads 0.13.18
+	- cherishedworlds 6.1.7+1.20.1
+	- citadel 2.6.2
+	- cloth_config 11.1.136
+	- clumps 12.0.0.4
+	- cobweb 1.0.1
+	- commongroovylibrary 0.3.3
+	- configured 2.2.3
+	- connectedglass 1.1.13
+	- coroutil 1.20.1-1.3.7
+	- craftable_elytra 1.0.0
+	- craftable_elytras 1.0.0
+	- craftable_flint_from_gravel 1.0.0
+	- craftable_nametag 1.0.0
+	- craftable_nether_star 1.0.0
+	- craftable_slimeball 1.0.0
+	- craftable_totem_of_undying 1.0.0
+	- craftablebell 1.20.1-0.1
+	- craftableenchantedgoldenapple 1.20.1-0.1
+	- craftableenchants 8.0.0
+	- craftablehorsearmor 1.20.1-0.1
+	- craftabletrident 1.0.0
+	- craterlib 2.1.5
+	- cupboard 1.20.1-2.7
+	- curios 5.14.1+1.20.1
+	- easyanvils 8.0.2
+	- easymagic 8.0.1
+	- eatinganimation 5.1.0
+	- elytraslot 6.4.4+1.20.1
+		\-- mixinsquared 0.1.2-beta.6
+	- embeddium 0.3.31+mc1.20.1
+		\-- rubidium 0.7.1
+	- entity_model_features 2.4.1
+	- entity_texture_features 6.2.9
+	- explosiveenhancement 1.1.0
+	- fallingleaves 2.1.2
+	- farmersdelight 1.20.1-1.2.8
+	- fastbench 8.0.4
+	- fastfurnace 8.0.2
+	- fastsuite 5.1.0
+	- ferritecore 6.0.1
+	- forge 47.3.7
+	- formations 1.0.3
+	- formationsnether 1.0.5
+	- formationsoverworld 1.0.4
+	- fusion 1.2.7+b
+	- geophilic 3.4.2
+	- gml 4.0.11
+	- gravestone 1.20.1-1.0.32
+	- handcrafted 3.0.6
+	- immediatelyfast 1.5.0+1.20.4
+	- inventorysorter 23.0.8
+	- iron_ender_chests 1.20-1.0.3
+	- ironbarrels 1.0.0
+	- ironbows 1.20.1-FORGE-1.10
+	- ironchest 1.20.1-14.4.4
+	- ironfurnaces 4.1.6
+	- ironshulkerbox 1.20.1-5.3.2
+	- jade 11.13.1+forge
+	- jei 15.20.0.106
+	- justzoom 2.1.1
+	- konkrete 1.8.0
+	- leatherfromrottenflesh 1.0.0
+	- libraryferret 4.0.0
+	- lionfishapi 2.4-Fix
+	- minecraft 1.20.1
+	- mns 1.0.3-1.20-forge
+	- modernfix 5.24.1+mc1.20.1
+	- moonlight 1.20-2.14.13
+	- morevanillashields 1.1.4-1.20.1
+	- mousetweaks 2.25.1
+	- netherite_horse_armor 1.20.1-1.0.4
+	- nethersdelight 1.20.1-4.0
+	- notenoughanimations 1.10.1
+		|-- transition 1.0.3
+		\-- trender 1.0.5
+	- orcz 0.82
+	- paper_from_bamboo 1.0.0
+	- personality 4.1.0
+	- placebo 8.6.3
+	- platform 1.2.10.1
+	- playeranimator 1.0.2-rc1+1.20
+	- puzzleslib 8.1.32
+		\-- puzzlesaccessapi 20.1.1
+	- repurposed_structures 7.1.17+1.20.1-forge
+	- resourcefullib 2.1.29
+	- retraining 1.3.1
+	- sdlink 3.3.2
+	- shulkerboxtooltip 4.0.4+1.20.1
+	- skinlayers3d 1.8.1
+	- smallships 2.0.0-b1.4
+	- soul_fire_d 4.0.11
+	- spark 1.10.53
+	- supermartijn642corelib 1.1.18
+	- supplementaries 1.20-3.1.34
+	- takesapillage 1.0.3
+	- tectonic 2.4.1
+	- terralith 2.5.4
+	- travelersbackpack 9.1.39
+	- vanillabackport 1.1.4.3
+	- watut 1.20.1-1.2.3
+	- wooden_elytra 2.0.1
+	- woodenbucket 1.20.1-2.1.0.0
+	- woodenhopper 1.20.1-1.6.0.1
+	- woodenshears 1.20.1-1.5.0.1
+	- woodmakespaper 1.0.0.0
+	- xaerominimap 25.2.6
+	- xaeroworldmap 1.39.9
+	- yungsapi 1.20-Forge-4.0.6
+[17Jul2025 05:54:50.785] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Jul2025 05:54:51.471] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[17Jul2025 05:54:51.491] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[17Jul2025 05:54:53.282] [main/WARN] [mixin/]: Error loading class: vazkii/quark/addons/oddities/inventory/BackpackMenu (java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.BackpackMenu)
+[17Jul2025 05:54:53.284] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/CraftingScreen (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.inventory.CraftingScreen)
+[17Jul2025 05:54:53.285] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.CraftingScreen was not found fastbench.mixins.json:MixinCraftingScreen
+[17Jul2025 05:54:53.670] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[17Jul2025 05:54:54.429] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (24.34 s after launch)
+[17Jul2025 05:54:54.747] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[17Jul2025 05:54:54.748] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[17Jul2025 05:54:56.534] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[17Jul2025 05:54:56.536] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[17Jul2025 05:54:57.000] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2566 milliseconds
+[17Jul2025 05:54:57.534] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[17Jul2025 05:54:57.535] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[17Jul2025 05:54:58.550] [main/WARN] [mixin/]: Method overwrite conflict for dropLeash in smallships-common.mixins.json:leashing.BoatMixin, previously written by com.blackgear.vanillabackport.core.mixin.leashable.common.entities.BoatMixin. Skipping method.
+[17Jul2025 05:54:58.550] [main/WARN] [mixin/]: Method overwrite conflict for isLeashed in smallships-common.mixins.json:leashing.BoatMixin, previously written by com.blackgear.vanillabackport.core.mixin.leashable.common.entities.BoatMixin. Skipping method.
+[17Jul2025 05:54:58.551] [main/WARN] [mixin/]: Method overwrite conflict for getLeashHolder in smallships-common.mixins.json:leashing.BoatMixin, previously written by com.blackgear.vanillabackport.core.mixin.leashable.common.entities.BoatMixin. Skipping method.
+[17Jul2025 05:54:58.551] [main/WARN] [mixin/]: Method overwrite conflict for setLeashedTo in smallships-common.mixins.json:leashing.BoatMixin, previously written by com.blackgear.vanillabackport.core.mixin.leashable.common.entities.BoatMixin. Skipping method.
+[17Jul2025 05:55:00.380] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[17Jul2025 05:55:00.839] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
+[17Jul2025 05:55:01.323] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[17Jul2025 05:55:01.350] [modloading-worker-0/WARN] [mixin/]: Method overwrite conflict for getPools in netherite_horse_armor.mixins.json:accessor.LootTableAccessor, previously written by com.blackgear.platform.core.mixin.forge.LootTableMixin. Skipping method.
+[17Jul2025 05:55:01.578] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[17Jul2025 05:55:01.579] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[17Jul2025 05:55:01.918] [modloading-worker-0/INFO] [Better Compatibility Checker/]: Better Compatibility Checker starting
+[17Jul2025 05:55:01.924] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.11
+[17Jul2025 05:55:02.010] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[17Jul2025 05:55:02.013] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[17Jul2025 05:55:02.376] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[17Jul2025 05:55:02.414] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[17Jul2025 05:55:02.587] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[17Jul2025 05:55:02.622] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[17Jul2025 05:55:02.646] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[17Jul2025 05:55:02.664] [modloading-worker-0/WARN] [fallingleaves/]: Falling Leaves is a client only mod and should be removed from the mods list
+[17Jul2025 05:55:02.693] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[17Jul2025 05:55:02.694] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[17Jul2025 05:55:02.735] [modloading-worker-0/INFO] [STDOUT/]: [com.tiviacz.travelersbackpack.TravelersBackpack:readOldCommonConfig:178]: curiosIntegration not found in the [common.backpackSettings] section.
+[17Jul2025 05:55:02.943] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[17Jul2025 05:55:02.948] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[17Jul2025 05:55:02.954] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[17Jul2025 05:55:02.955] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[17Jul2025 05:55:02.959] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[17Jul2025 05:55:02.968] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[17Jul2025 05:55:02.979] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[17Jul2025 05:55:03.203] [modloading-worker-0/INFO] [CraterLib/]: Registered simple-discord-link.toml successfully!
+[17Jul2025 05:55:03.225] [modloading-worker-0/INFO] [CraterLib/]: Registered simple-discord-compat.toml successfully!
+[17Jul2025 05:55:03.237] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[17Jul2025 05:55:03.277] [modloading-worker-0/WARN] [mixin/]: Method overwrite conflict for setEntries in netherite_horse_armor.mixins.json:accessor.LootPoolAccessor, previously written by com.blackgear.platform.core.mixin.forge.LootPoolMixin. Skipping method.
+[17Jul2025 05:55:03.277] [modloading-worker-0/WARN] [mixin/]: Method overwrite conflict for getEntries in netherite_horse_armor.mixins.json:accessor.LootPoolAccessor, previously written by com.blackgear.platform.core.mixin.forge.LootPoolMixin. Skipping method.
+[17Jul2025 05:55:03.298] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[17Jul2025 05:55:03.298] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[17Jul2025 05:55:03.381] [modloading-worker-0/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Disabled because not running on the client.
+[17Jul2025 05:55:03.605] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[17Jul2025 05:55:03.623] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[17Jul2025 05:55:03.624] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[17Jul2025 05:55:04.873] [pool-3-thread-2/INFO] [Simple Discord Link/]: Successfully connected to discord
+[17Jul2025 05:55:04.880] [pool-3-thread-2/INFO] [Simple Discord Link/]: Discord Invite Link for Bot: https://discord.com/api/oauth2/authorize?client_id=1391991755368300636&permissions=277965401108&scope=bot%20applications.commands
+[17Jul2025 05:55:04.886] [pool-3-thread-2/ERROR] [Simple Discord Link/]: 
+******************* Simple Discord Link Errors *******************
+1) Missing Console Channel Channel Permission: View Channels
+2) Missing Console Channel Channel Permission: Send Messages
+3) Missing Console Channel Channel Permission: Embed Links
+4) Missing Console Channel Channel Permission: Manage Webhooks
+
+******************* Simple Discord Link Errors *******************
+
+[17Jul2025 05:55:06.047] [main/WARN] [supermartijn642corelib/]: Could not find value 'formations:template_editor' in registry 'minecraft:item' for @RegistryEntryAcceptor!
+[17Jul2025 05:55:06.327] [main/INFO] [Moonlight/]: Initialized block sets in 16ms
+[17Jul2025 05:55:07.411] [modloading-worker-0/INFO] [Better Compatibility Checker/]: Better Compatibility Checker setup
+[17Jul2025 05:55:07.411] [modloading-worker-0/INFO] [com.blocklegend001.craftablehorsearmor.CraftableHorseArmor/]: Mod Loaded
+[17Jul2025 05:55:07.414] [modloading-worker-0/INFO] [io.redspace.enderchestmod.IronEnderChests/]: HELLO FROM COMMON SETUP
+[17Jul2025 05:55:07.414] [modloading-worker-0/INFO] [io.redspace.enderchestmod.IronEnderChests/]: DIRT BLOCK >> minecraft:dirt
+[17Jul2025 05:55:07.417] [modloading-worker-0/INFO] [com.blocklegend001.craftableenchantedgoldenapple.CraftableEnchantedGoldenApple/]: Mod Loaded!
+[17Jul2025 05:55:07.441] [modloading-worker-0/INFO] [com.rajhab.morevanillashields_mod.morevanillashields/]: morevanillashields: This mod now runs with a config file. Feel free to use it!
+[17Jul2025 05:55:07.451] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[17Jul2025 05:55:07.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[17Jul2025 05:55:07.537] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Starting version check at https://api.modrinth.com/updates/cobweb/forge_updates.json
+[17Jul2025 05:55:07.579] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 1, 0, 1, 0, 0, 8, 3, 0] ms
+[17Jul2025 05:55:07.652] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[17Jul2025 05:55:07.652] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[17Jul2025 05:55:07.653] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[17Jul2025 05:55:07.653] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[17Jul2025 05:55:07.658] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[17Jul2025 05:55:07.685] [main/INFO] [Moonlight/]: Initialized color sets in 20ms
+[17Jul2025 05:55:07.765] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[17Jul2025 05:55:07.766] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[17Jul2025 05:55:07.790] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[17Jul2025 05:55:07.790] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[17Jul2025 05:55:08.064] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[17Jul2025 05:55:08.064] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soul_fire_d] Starting version check at https://api.modrinth.com/updates/soul-fire-d/forge_updates.json
+[17Jul2025 05:55:08.132] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soul_fire_d] Found status: UP_TO_DATE Current: 4.0.11 Target: null
+[17Jul2025 05:55:08.132] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[17Jul2025 05:55:08.142] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.34 Target: null
+[17Jul2025 05:55:08.143] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
+[17Jul2025 05:55:08.164] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[17Jul2025 05:55:08.172] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[17Jul2025 05:55:08.181] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[17Jul2025 05:55:08.185] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[17Jul2025 05:55:08.186] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[17Jul2025 05:55:08.655] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.11 Target: null
+[17Jul2025 05:55:08.656] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[17Jul2025 05:55:08.665] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
+[17Jul2025 05:55:08.665] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[17Jul2025 05:55:08.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[17Jul2025 05:55:08.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[17Jul2025 05:55:08.791] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17Jul2025 05:55:08.883] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[17Jul2025 05:55:09.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[17Jul2025 05:55:09.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[17Jul2025 05:55:09.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
+[17Jul2025 05:55:09.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[17Jul2025 05:55:09.084] [main/WARN] [supermartijn642corelib/]: Could not find value 'formations:template_editor' in registry 'minecraft:item' for @RegistryEntryAcceptor!
+[17Jul2025 05:55:09.140] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/JIJOMANO-SERVER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23359!/assets/.mcassetsroot' uses unexpected schema
+[17Jul2025 05:55:09.140] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/JIJOMANO-SERVER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23359!/data/.mcassetsroot' uses unexpected schema
+[17Jul2025 05:55:09.286] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23360!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23360!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[17Jul2025 05:55:09.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillashields] Starting version check at https://raw.githubusercontent.com/Rajhab/MoreVanillaShields-UpdateChecker/main/update.json
+[17Jul2025 05:55:09.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillashields] Found status: UP_TO_DATE Current: 1.1.4-1.20.1 Target: null
+[17Jul2025 05:55:09.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[17Jul2025 05:55:09.326] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[17Jul2025 05:55:09.326] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17Jul2025 05:55:09.358] [main/INFO] [Moonlight/]: Generated runtime resources for 1 packs in a total of: 83 ms
+[17Jul2025 05:55:09.442] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[17Jul2025 05:55:09.442] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[17Jul2025 05:55:09.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.14.13 Target: null
+[17Jul2025 05:55:09.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[17Jul2025 05:55:09.654] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[17Jul2025 05:55:10.168] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.32 Target: null
+[17Jul2025 05:55:10.168] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[17Jul2025 05:55:10.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[17Jul2025 05:55:10.395] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[17Jul2025 05:55:11.635] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[17Jul2025 05:55:12.249] [Worker-Main-1/INFO] [com.jerrylu086.netherite_horse_armor.NetheriteHorseArmor/]: Successfully modified loot table: 'minecraft:chests/bastion_treasure'
+[17Jul2025 05:55:12.546] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
+[17Jul2025 05:55:12.616] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[17Jul2025 05:55:12.650] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[17Jul2025 05:55:12.684] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[17Jul2025 05:55:12.710] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[17Jul2025 05:55:12.710] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
+[17Jul2025 05:55:12.845] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2865 advancements
+[17Jul2025 05:55:12.850] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[17Jul2025 05:55:12.864] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[17Jul2025 05:55:12.866] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[17Jul2025 05:55:12.872] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[17Jul2025 05:55:12.880] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
+[17Jul2025 05:55:12.886] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.3.7-universal.jar%23364!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.3.7-universal.jar%23364!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.3.7-universal.jar%23364!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[17Jul2025 05:55:12.889] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
+[17Jul2025 05:55:12.889] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.3.7-universal.jar%23364!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.3.7-universal.jar%23364!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.3.7-universal.jar%23364!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23359!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[17Jul2025 05:55:12.892] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
+[17Jul2025 05:55:12.893] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[17Jul2025 05:55:12.954] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[17Jul2025 05:55:13.011] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
+[17Jul2025 05:55:13.030] [main/WARN] [ModernFix/]: Initial datapack load took 3.857 s
+[17Jul2025 05:55:13.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[17Jul2025 05:55:13.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[17Jul2025 05:55:13.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[17Jul2025 05:55:13.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[17Jul2025 05:55:13.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[17Jul2025 05:55:13.317] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[17Jul2025 05:55:13.423] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17Jul2025 05:55:13.423] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[17Jul2025 05:55:13.423] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17Jul2025 05:55:13.424] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[17Jul2025 05:55:13.443] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[17Jul2025 05:55:13.448] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[17Jul2025 05:55:13.697] [Server thread/INFO] [spark/]: Starting background profiler...
+[17Jul2025 05:55:14.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[17Jul2025 05:55:15.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[17Jul2025 05:55:15.877] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jul2025 05:55:15.911] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jul2025 05:55:16.286] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jul2025 05:55:16.645] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jul2025 05:55:17.128] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jul2025 05:55:17.515] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2388 ms
+[17Jul2025 05:55:17.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.078s)! For help, type "help"
+[17Jul2025 05:55:17.559] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[17Jul2025 05:55:17.561] [Server thread/INFO] [io.redspace.enderchestmod.IronEnderChests/]: HELLO from server starting
+[17Jul2025 05:55:17.580] [Server thread/INFO] [com.rajhab.morevanillashields_mod.morevanillashields/]: morevanillashields: This mod is now running on a server. Please report any error or bugs.
+[17Jul2025 05:55:17.584] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
+[17Jul2025 05:55:17.659] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[17Jul2025 05:55:17.780] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 30511 bytes (in 4 string chunks with the size of 10000)
+[17Jul2025 05:55:17.781] [Server thread/WARN] [ModernFix/]: Dedicated server took 47.689 seconds to load
+[17Jul2025 05:55:28.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: firefrost52[/100.108.234.94:52596] logged in with entity id 54 at (-363.8096385791496, 68.0, 1533.132592347282)
+[17Jul2025 05:55:28.648] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player firefrost52
+[17Jul2025 05:55:28.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 joined the game
+[17Jul2025 05:55:28.801] [Server thread/INFO] [Jade/]: Syncing config to firefrost52 (f0c737ce-567c-3525-8946-78b9ce9474fb)
+[17Jul2025 05:55:30.407] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] firefrost52: protocol version: 2.0
+[17Jul2025 05:55:33.418] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 2 plugins: supplementaries, shulkerboxtooltip
+[17Jul2025 05:55:33.421] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 2 providers for mod supplementaries
+[17Jul2025 05:55:33.423] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[17Jul2025 05:55:33.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4931ms or 98 ticks behind
+[17Jul2025 05:59:58.147] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.744 ms. 2481/2573 recipes are parallelized.

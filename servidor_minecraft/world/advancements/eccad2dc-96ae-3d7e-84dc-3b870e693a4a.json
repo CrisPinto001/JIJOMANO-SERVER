@@ -7238,15 +7238,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-07-15 01:43:53 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ancient_cities": {
+    "criteria": {
+      "in_ancient_city_nether": "2025-07-15 01:43:48 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-07-14 23:24:19 +0000"
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-07-15 01:43:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-07-15 00:47:10 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/building_blocks/dried_ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-07-15 01:43:53 +0000"
     },
     "done": true
   },
