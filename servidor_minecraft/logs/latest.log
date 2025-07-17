@@ -837,3 +837,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Jul2025 06:32:58.101] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
 [17Jul2025 06:32:58.101] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
 [17Jul2025 06:32:58.101] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
+[17Jul2025 06:39:12.675] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:shark
+[17Jul2025 06:39:13.005] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:39:13.005] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:39:13.005] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:39:13.060] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:sunfish
+[17Jul2025 06:39:13.633] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:sunfish
+[17Jul2025 06:39:13.973] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:39:13.973] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:39:13.973] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:58:49.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has reached the goal [When the Stew is Sus]
+[17Jul2025 07:10:29.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 0.288308546646995
+[17Jul2025 07:10:30.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 0.2504573663008429
+[17Jul2025 07:10:30.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 1.097796276054396
+[17Jul2025 07:10:30.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 1.097796276054396
+[17Jul2025 07:10:30.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 1.097796276054396
+[17Jul2025 07:10:30.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 0.7286715789950904

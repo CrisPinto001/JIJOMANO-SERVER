@@ -6620,3 +6620,57 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Jul2025 06:32:58.101] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:trevally
 [17Jul2025 06:35:22.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jul2025 06:35:22.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 06:39:12.675] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:shark
+[17Jul2025 06:39:13.005] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:39:13.005] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:39:13.005] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:39:13.060] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:sunfish
+[17Jul2025 06:39:13.633] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:sunfish
+[17Jul2025 06:39:13.973] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:39:13.973] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:39:13.973] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id untamedwilds:spadefish
+[17Jul2025 06:40:22.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 06:40:22.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 06:45:22.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 06:45:22.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 06:50:22.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 06:50:22.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 06:55:22.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 06:55:22.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 06:56:04.826] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 13
+[17Jul2025 06:56:04.827] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@1b364c2f, b=31, e=57}, []=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@1b364c2f, b=58, e=66}}
+[17Jul2025 06:56:04.827] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot null
+[17Jul2025 06:58:24.007] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 32
+[17Jul2025 06:58:24.007] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@26a7e8aa, b=27, e=53}, net.minecraft.world.level.block.entity.ChestBlockEntity@3e1cdc50=InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@3e1cdc50, c=net.minecraft.world.inventory.ChestMenu@26a7e8aa, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@26a7e8aa, b=54, e=62}}
+[17Jul2025 06:58:24.007] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@26a7e8aa, b=27, e=53}
+[17Jul2025 06:58:49.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has reached the goal [When the Stew is Sus]
+[17Jul2025 06:59:01.695] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[17Jul2025 07:00:22.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 07:00:22.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 07:01:43.249] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 38
+[17Jul2025 07:01:43.250] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@fc9c5f9, b=31, e=57}, []=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@fc9c5f9, b=58, e=66}}
+[17Jul2025 07:01:43.250] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@fc9c5f9, b=31, e=57}
+[17Jul2025 07:01:46.148] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 38
+[17Jul2025 07:01:46.148] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@fc9c5f9, b=31, e=57}, []=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@fc9c5f9, b=58, e=66}}
+[17Jul2025 07:01:46.148] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@fc9c5f9, b=31, e=57}
+[17Jul2025 07:01:52.815] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 55
+[17Jul2025 07:01:52.815] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@fc9c5f9, b=31, e=57}, []=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@fc9c5f9, b=58, e=66}}
+[17Jul2025 07:01:52.815] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@fc9c5f9, b=31, e=57}
+[17Jul2025 07:05:22.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 07:05:22.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 07:07:29.451] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 13
+[17Jul2025 07:07:29.451] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@27ef2cfb, b=45, e=45}, dev.shadowsoffire.fastbench.util.CraftingInventoryExt@7161f127=InventoryMapping{i=dev.shadowsoffire.fastbench.util.CraftingInventoryExt@7161f127, c=net.minecraft.world.inventory.InventoryMenu@27ef2cfb, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@27ef2cfb, b=9, e=35}, net.minecraft.world.inventory.ResultContainer@6391eafe=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@6391eafe, c=net.minecraft.world.inventory.InventoryMenu@27ef2cfb, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@27ef2cfb, b=36, e=44}}
+[17Jul2025 07:07:29.451] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@27ef2cfb, b=9, e=35}
+[17Jul2025 07:10:22.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 07:10:22.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 07:10:29.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 0.288308546646995
+[17Jul2025 07:10:30.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 0.2504573663008429
+[17Jul2025 07:10:30.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 1.097796276054396
+[17Jul2025 07:10:30.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 1.097796276054396
+[17Jul2025 07:10:30.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 1.097796276054396
+[17Jul2025 07:10:30.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 0.7286715789950904
+[17Jul2025 07:11:48.530] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 55
+[17Jul2025 07:11:48.531] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@7baccec7, b=31, e=57}, []=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@7baccec7, b=58, e=66}}
+[17Jul2025 07:11:48.531] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@7baccec7, b=31, e=57}
+[17Jul2025 07:15:22.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 07:15:22.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
